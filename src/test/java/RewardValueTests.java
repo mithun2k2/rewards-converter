@@ -33,10 +33,4 @@ public class RewardValueTests {
         double expectedCash = milesValue * 0.0035;
         assertEquals(expectedCash, rewardValue.getCashValue(), 0.0001);
     }
-<<<<<<< HEAD
 }
-
-
-=======
-}
->>>>>>> reward-value
